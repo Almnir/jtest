@@ -13,7 +13,7 @@ public class jtest {
         BasicConfigurator.configure();
         logger.info("Entering application.");
         doIt();
-        logger.fatal("Unable to proceed!");
+        // logger.fatal("Unable to proceed!");
         logger.info("Exiting application.");
     }
 }
