@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3796b2d5-aa11-43eb-925b-2596bb41dbb7" name="Default" comment="">
-      <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\ant.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\compiler.xml" afterPath="" />
+    <list default="true" id="3796b2d5-aa11-43eb-925b-2596bb41dbb7" name="Default" comment="removed .idea trash 1">
       <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\modules.xml" afterPath="" />
       <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\IdeaProjects\jtest\.idea\workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jtest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,7 +12,8 @@
     <ignored path=".idea/libraries/log4j_1_2_17.xml" />
     <ignored path=".idea/dictionaries/alm.xml" />
     <ignored path="jtest.xml" />
-    <ignored mask=".idea/*.*" />
+    <ignored path=".idea/copyright/profiles_settings.xml" />
+    <ignored path=".idea/scopes/scope_settings.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,10 +201,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="jtest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -471,7 +460,15 @@
       <created>1338762709871</created>
       <updated>1338762709871</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="removed .idea trash">
+      <created>1338762944670</created>
+      <updated>1338762944670</updated>
+    </task>
+    <task id="LOCAL-00010" summary="removed .idea trash 1">
+      <created>1338763077880</created>
+      <updated>1338763077880</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -557,7 +554,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed .idea trash 1" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -577,6 +574,8 @@
     <MESSAGE value="with ant build1" />
     <MESSAGE value="with ant build2" />
     <MESSAGE value="trying to remove" />
+    <MESSAGE value="removed .idea trash" />
+    <MESSAGE value="removed .idea trash 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
