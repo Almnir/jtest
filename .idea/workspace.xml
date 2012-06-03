@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3796b2d5-aa11-43eb-925b-2596bb41dbb7" name="Default" comment="with ant build2">
+    <list default="true" id="3796b2d5-aa11-43eb-925b-2596bb41dbb7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jtest.iws" />
@@ -453,7 +453,11 @@
       <created>1338762077948</created>
       <updated>1338762077948</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="with ant build2">
+      <created>1338762529749</created>
+      <updated>1338762529749</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
